@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="category_context_menu_delete">删除</string>
+    <string name="category_context_menu_choose">全选</string>
+    <string name="category_context_menu_invertSelection">反选</string>
+    <string name="fragment_memo_save">保存</string>
+    <string name="menu_title_search">搜索</string>
+</resources>

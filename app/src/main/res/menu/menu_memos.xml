@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_memos_choose"
+        android:title="@string/category_context_menu_choose"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/menu_memos_invertSelection"
+        android:title="@string/category_context_menu_invertSelection"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource"/>
+
+    <item
+        android:id="@+id/menu_memos_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/category_context_menu_delete"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource"/>
+</menu>
